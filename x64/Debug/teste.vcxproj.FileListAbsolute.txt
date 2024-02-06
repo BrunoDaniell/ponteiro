@@ -1,0 +1,2 @@
+C:\Users\bruno\Desktop\PROJETOS\teste\x64\Debug\teste.exe
+C:\Users\bruno\Desktop\Curso C++\teste\x64\Debug\teste.exe

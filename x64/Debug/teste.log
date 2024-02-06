@@ -1,0 +1,4 @@
+﻿  teste.cpp
+C:\Users\bruno\Desktop\Curso C++\teste\teste.cpp(17,15): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+C:\Users\bruno\Desktop\Curso C++\teste\teste.cpp(17,15): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
+  teste.vcxproj -> C:\Users\bruno\Desktop\Curso C++\teste\x64\Debug\teste.exe
